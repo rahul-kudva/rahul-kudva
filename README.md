@@ -7,7 +7,7 @@
 
 - 💼 Previously: **Member of Technical Staff 2 at Oracle**, worked on scalable backend services and test automation platforms
 
-- 👨‍💻 All my projects are available at [https://github.com/rahul-kudva](https://github.com/rahul-kudva)
+- 👨‍💻 All my projects are available at [https://github.com/rahul-kudva/repositories](https://github.com/rahul-kudva?tab=repositories)
 
 - 💬 Ask me about **Python, system design, computer vision, and backend architecture**
 
